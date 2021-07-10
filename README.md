@@ -1,3 +1,5 @@
+(this is a fork - original readme below)
+
 # Oscean
 
 This is the repository for the [Oscean wiki](http://wiki.xxiivv.com/), see the [on-site documentation](http://wiki.xxiivv.com/About) for more up-to-date details. Oscean is a _static site_ written in [ANSI C](https://en.wikipedia.org/wiki/ANSI_C), the database tables are in the human-readable plaintext [ndtl](https://wiki.xxiivv.com/site/indental.html)/[tbtl](https://wiki.xxiivv.com/site/tablatal.html). The lexicon body uses a [simple markup language](https://wiki.xxiivv.com/site/meta.html). The Master Branch is the **live version**.
